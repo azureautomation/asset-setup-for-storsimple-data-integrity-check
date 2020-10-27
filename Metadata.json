@@ -1,0 +1,20 @@
+{
+    "Author": "Vivek N D",
+    "ContentSize": 10483,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/asset-setup-for-storsimple-data-integrity-check/master/MediaFiles-AssetsInput.ps1",
+    "DownloadCount": 646,
+    "Id": "Asset-setup-for-StorSimple-d8b1cf90",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 507,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script lets you create the assets needed for the StorSimple data integrity checker which is uploaded here: https://gallery.technet.microsoft.com/Automated-checking-for-d6cc970c/file/148409/1/Check-StorSimpleVolume-DiskIntegrity.ps1.Some assets still need to be added manually",
+    "Title": "Asset setup for StorSimple data integrity check",
+    "UpdatedDate": "2016-2-24T00:00:00",
+    "Url": "https://github.com/azureautomation/asset-setup-for-storsimple-data-integrity-check",
+    "UserTags": "Azure Automation, StorSimple"
+}
